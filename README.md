@@ -4,4 +4,6 @@ This is my small little hobby project to translate all London underground statio
 
 It's very much work in progress and help is appreciated.
 
-If you'd like to contribute, please keep your suggestions on a professional level and avoid humorous translations. Translations should be based on their historical context and similar Finnish names.
+If you'd like to contribute, please keep your suggestions on a professional level and avoid humorous translations (I'm looking at you, Liverpool Street). Translations should be based on the historical context and follow the Finnish naming conventions wherever possible.
+
+For the names which just don't translate easily (Theydon Bois, anyone?), creativity might be needed.
