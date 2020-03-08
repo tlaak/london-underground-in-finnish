@@ -1,6 +1,8 @@
 # Acton
 
-## Summary
+There are four London Underground stations in Acton serving Central, District and Piccadilly Lines. The stations are Acton Town, East Acton, West Acton and North Acton.
+
+## Summary
 
 | London Underground station | Finnish translation |
 | -------------------------- | ------------------- |
@@ -12,8 +14,6 @@
 ## Background
 
 [Acton](https://en.wikipedia.org/wiki/Acton,_London) is located in the borough of Ealing in West London.
-
-There are four London Underground stations in Acton serving Central, District and Piccadilly Lines. The stations are Acton Town, East Acton, West Acton and North Acton.
 
 According to Wikipedia:
 
