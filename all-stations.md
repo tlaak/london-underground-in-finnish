@@ -25,7 +25,7 @@
 | Bethnal Green                          | Onnikulmankorpi                           |                                    |
 | Blackfriars                            | tbd                                       |                                    |
 | Blackhorse Road                        | tbd                                       |                                    |
-| [Bond Street](stations/bond-street.md) | [Talonpojankatu](stations/bond-street.md) |                                    |
+| [Bond Street](stations/bond-street.md) | [Talonpojankatu](stations/bond-street.md) | Central, Jubilee                   |
 | Borough                                | tbd                                       |                                    |
 | Boston Manor                           | tbd                                       |                                    |
 | Bounds Green                           | tbd                                       |                                    |
