@@ -216,7 +216,7 @@
 | Southwark                                  | tbd                                               |                                    |
 | St. James's Park                           | tbd                                               |                                    |
 | St. Johns Wood                             | tbd                                               |                                    |
-| St. Pauls                                  | Paavalinkirkko                                    |                                    |
+| [St. Pauls](stations/st-pauls.md)          | [Paavalinkirkko](stations/st-pauls.md)            | Central                            |
 | Stamford Brook                             | tbd                                               |                                    |
 | Stanmore                                   | tbd                                               |                                    |
 | Stepney Green                              | tbd                                               |                                    |
