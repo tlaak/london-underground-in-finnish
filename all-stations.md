@@ -65,7 +65,7 @@
 | Ealing Broadway                            | Killangin maantie                                 |                                    |
 | Ealing Common                              | tbd                                               |                                    |
 | Earls Court                                | tbd                                               |                                    |
-| [East Acton](stations/acton.md)            | [Itä-Tammela](stations/acton.md)                  |                                    |
+| [East Acton](stations/acton.md)            | [Itä-Tammela](stations/acton.md)                  | Central                            |
 | East Finchley                              | tbd                                               |                                    |
 | East Ham                                   | tbd                                               |                                    |
 | East India                                 | tbd                                               |                                    |
@@ -147,7 +147,7 @@
 | Manor House                                | tbd                                               |                                    |
 | Manor Park                                 | tbd                                               |                                    |
 | Mansion House                              | tbd                                               |                                    |
-| [Marble Arch](stations/marble-arch.md)     | [Marmorikaari](stations/marble-arch.md)           |                                    |
+| [Marble Arch](stations/marble-arch.md)     | [Marmorikaari](stations/marble-arch.md)           | Central                            |
 | Marylebone                                 | tbd                                               |                                    |
 | Mile End                                   | Mailinpää                                         |                                    |
 | Mill Hill East                             | tbd                                               |                                    |
@@ -158,7 +158,7 @@
 | Mornington Crescent                        | tbd                                               |                                    |
 | Neasden                                    | tbd                                               |                                    |
 | Newbury Park                               | Uudenkaupunginpuisto                              |                                    |
-| [North Acton](stations/acton.md)           | [Pohjois-Tammela](stations/acton.md)              |                                    |
+| [North Acton](stations/acton.md)           | [Pohjois-Tammela](stations/acton.md)              | Central, District, Piccadilly      |
 | North Ealing                               | Pohjois-Killanki                                  |                                    |
 | North Greenwich                            | tbd                                               |                                    |
 | North Harrow                               | tbd                                               |                                    |
@@ -252,7 +252,7 @@
 | Watford                                    | tbd                                               |                                    |
 | Wembley Central                            | tbd                                               |                                    |
 | Wembley Park                               | tbd                                               |                                    |
-| [West Acton](stations/acton.md)            | [Länsi-Tammela](stations/acton.md)                |                                    |
+| [West Acton](stations/acton.md)            | [Länsi-Tammela](stations/acton.md)                | Central                            |
 | West Brompton                              | tbd                                               |                                    |
 | West Finchley                              | tbd                                               |                                    |
 | West Ham                                   | tbd                                               |                                    |

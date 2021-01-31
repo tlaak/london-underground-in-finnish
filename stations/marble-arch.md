@@ -1,6 +1,6 @@
 # Marble Arch
 
-Marble Arch is served by the Central Line and it's located in the City of Westminster.
+Marble Arch is served by the Central line and it's located in the City of Westminster.
 
 ## Summary
 
