@@ -26,7 +26,7 @@ The name is a compound of two unrelated historical layers, which is what makes i
 
 For **Theydon**, the thatching material is the key. Traditional Finnish thatched roofs (_ruokokatto_) are made of _ruoko_ — reed — which is precisely the plant one gathers from a wet valley floor, exactly as the Old English name describes. _Olki_ (straw) is the other candidate, but straw is a by-product of grain fields, not something "got from a valley," so _ruoko_ is the truer fit. Combined with _laakso_ (valley) this gives _Ruokolaakso_, "reed valley" — and it stands on real Finnish ground, echoing the municipality of [Ruokolahti](https://fi.wikipedia.org/wiki/Ruokolahti) and the place-and-surname _Ruokola_.
 
-For **Bois**, the elegant move is to reproduce in Finnish the very same wordplay the English name relies on. _Bois_ is a surname that also means "wood"; the natural Finnish counterpart is the real surname and place name _Metsälä_ — literally "the wood-place." Rendering Bois as _Metsälä_ keeps all three of its English resonances: it reads as a manorial family name, it means "wood," and it points to the neighbouring forest.
+For **Bois**, the elegant move is to reproduce in Finnish the very same wordplay the English name relies on. _Bois_ is a surname that also means "wood"; the natural Finnish counterpart is the real surname and place name [_Metsälä_](https://fi.wikipedia.org/wiki/Metsälä) — literally "the wood-place." Rendering Bois as _Metsälä_ keeps all three of its English resonances: it reads as a manorial family name, it means "wood," and it points to the neighbouring forest.
 
 ## Conclusion
 

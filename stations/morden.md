@@ -21,7 +21,7 @@ Morden [derives from the Old English _mōr_ and _dūn_, meaning "hill in marshy 
 
 The _dūn_ ("hill") element is straightforward: _mäki_, the same word used for the many other Underground hills, as in Buckhurst Hill → _Pyökkimäki_ and Gants Hill → _Gantinmäki_.
 
-The _mōr_ element needs more care. Elsewhere in this project "moor" has been rendered as _nummi_ (Moorgate → _Nummiportti_, Moor Park → _Nummipuisto_), but _nummi_ is specifically a dry, sandy heath — very nearly the opposite of what Morden means. The name is glossed explicitly as _marshy_ ground, so the accurate Finnish word is _suo_, a mire or marsh. Choosing _suo_ over _nummi_ here is a deliberate departure in favour of the true sense of the name.
+The _mōr_ element needs more care. Elsewhere in this project "moor" has been rendered as _nummi_ (Moorgate → _Nummiportti_, Moor Park → _Nummipuisto_), but [_nummi_](https://en.wiktionary.org/wiki/nummi) is specifically a dry, sandy heath — very nearly the opposite of what Morden means. The name is glossed explicitly as _marshy_ ground, so the accurate Finnish word is [_suo_](https://fi.wikipedia.org/wiki/Suo), a mire or marsh. Choosing _suo_ over _nummi_ here is a deliberate departure in favour of the true sense of the name.
 
 ## Conclusion
 

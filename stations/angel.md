@@ -23,7 +23,7 @@ It is one of [only five London Underground stations named after a public house](
 
 The Finnish word for an angel is _enkeli_, a loanword that reached Finnish through Old Swedish _ängil_ and ultimately from the Greek _ángelos_ ("messenger") — the same Germanic-via-Swedish route that shapes so many of these names. Just as English shortened "The Angel Inn" to simply "Angel," the literal Finnish form would drop _majatalo_ ("inn") and keep only _Enkeli_.
 
-The problem is that _Enkeli_ does not occur as a genuine Finnish place name (much as there is no place called _Pankki_ — see [Bank](bank.md)), so it reads as an invented label rather than a real toponym. The similar-looking Hämeenlinna districts _Engelinranta_ and _Engelinaukio_ are no help either: they are named after the architect Carl Ludvig _Engel_, not after an angel.
+The problem is that _Enkeli_ does not occur as a genuine Finnish place name (much as there is no place called _Pankki_ — see [Bank](bank.md)), so it reads as an invented label rather than a real toponym. The similar-looking Hämeenlinna districts _Engelinranta_ and _Engelinaukio_ are no help either: they are named after the architect [Carl Ludvig _Engel_](https://en.wikipedia.org/wiki/Carl_Ludvig_Engel), not after an angel.
 
 A far better fit exists. [Angeli](https://fi.wikipedia.org/wiki/Angeli) is a real village in the municipality of Inari in Finnish Lapland, lying along the Inarijoki river close to the Norwegian border. Its name is of Sámi origin (_Áŋŋel_ in Northern Sámi, _Aŋŋel_ in Inari Sámi) and is not etymologically related to "angel," yet it is all but identical to the English word in sound and spelling and reads completely naturally as a Finnish place name.
 
