@@ -227,7 +227,7 @@
 | Sudbury Town                               | tbd                                               |                                    |
 | Swiss Cottage                              | tbd                                               |                                    |
 | Temple                                     | tbd                                               |                                    |
-| Theydon Bois                               | tbd                                               |                                    |
+| [Theydon Bois](stations/theydon-bois.md)   | [Ruokolaakso-Metsälä](stations/theydon-bois.md)   | Central                            |
 | Tooting Bec                                | tbd                                               |                                    |
 | Tooting Broadway                           | tbd                                               |                                    |
 | Tottenham Court Road                       | Tottilankartanontie                               |                                    |
