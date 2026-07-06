@@ -137,8 +137,8 @@
 | Lancaster Gate                                   | Jokilinnanportti                                  |                                                   |
 | Latimer Road                                     | tbd                                               |                                                   |
 | Leicester Square                                 | tbd                                               |                                                   |
-| Leyton                                           | Jokela                                            |                                                   |
-| Leytonstone                                      | Jokelanpylväs                                     |                                                   |
+| [Leyton](stations/leyton.md)                     | [Jokela](stations/leyton.md)                      | Central                                           |
+| [Leytonstone](stations/leytonstone.md)           | [Jokelanpylväs](stations/leytonstone.md)          | Central                                           |
 | Limehouse                                        | tbd                                               |                                                   |
 | [Liverpool Street](stations/liverpool-street.md) | [Mutalahdenkatu](stations/liverpool-street.md)    | Central, Circle, Hammersmith & City, Metropolitan |
 | [London Bridge](stations/london-bridge.md)       | [Lontoonsilta](stations/london-bridge.md)         | Jubilee, Northern                                 |
@@ -173,7 +173,7 @@
 | Old Street                                       | Vanhatie                                          |                                                   |
 | Osterley                                         | tbd                                               |                                                   |
 | Oval                                             | tbd                                               |                                                   |
-| Oxford Circus                                    | Härkävieskanaukio                                 |                                                   |
+| [Oxford Circus](stations/oxford-circus.md)       | [Härkävieskanaukio](stations/oxford-circus.md)    | Bakerloo, Central, Victoria                       |
 | Paddington                                       | tbd                                               |                                                   |
 | Park Royal                                       | tbd                                               |                                                   |
 | Parsons Green                                    | tbd                                               |                                                   |
@@ -210,7 +210,7 @@
 | South Kenton                                     | tbd                                               |                                                   |
 | South Ruislip                                    | tbd                                               |                                                   |
 | South Wimbledon                                  | tbd                                               |                                                   |
-| South Woodford                                   | Etelä-Metsävieska                                 |                                                   |
+| [South Woodford](stations/south-woodford.md)     | [Etelä-Metsävieska](stations/south-woodford.md)   | Central                                           |
 | Southfields                                      | tbd                                               |                                                   |
 | Southgate                                        | tbd                                               |                                                   |
 | Southwark                                        | tbd                                               |                                                   |
@@ -222,7 +222,7 @@
 | Stepney Green                                    | tbd                                               |                                                   |
 | Stockwell                                        | tbd                                               |                                                   |
 | Stonebridge Park                                 | tbd                                               |                                                   |
-| Stratford                                        | Katuvieska                                        |                                                   |
+| [Stratford](stations/stratford.md)               | [Katuvieska](stations/stratford.md)               | Central, Jubilee                                  |
 | Sudbury Hill                                     | tbd                                               |                                                   |
 | Sudbury Town                                     | tbd                                               |                                                   |
 | Swiss Cottage                                    | tbd                                               |                                                   |
@@ -270,5 +270,5 @@
 | Wimbledon Park                                   | tbd                                               |                                                   |
 | Wood Green                                       | tbd                                               |                                                   |
 | Wood Lane                                        | tbd                                               |                                                   |
-| Woodford                                         | Metsävieska                                       |                                                   |
+| [Woodford](stations/woodford.md)                 | [Metsävieska](stations/woodford.md)               | Central                                           |
 | Woodside Park                                    | tbd                                               |                                                   |

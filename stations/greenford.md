@@ -19,7 +19,9 @@ Greenford is served by the Central line, in the London Borough of Ealing in West
 | green   | viher-, vihreä    |
 | ford    | vieska (kahlaamo) |
 
-_Green_ is the compounding form _viher-_. For _ford_, this project uses _vieska_ — a genuine Finnish place-name element found in real towns such as [Ylivieska](https://fi.wikipedia.org/wiki/Ylivieska) and Alavieska, and applied here to the Underground's several fords (Woodford → _Metsävieska_, Oxford Circus → _Härkävieskanaukio_) — rather than the flat literal _kahlaamo_. The result is _Vihervieska_, "green ford."
+_Green_ is the compounding form _viher-_. The interesting element is _ford_. This project renders it as [_vieska_](https://fi.wikipedia.org/wiki/Vieska) — an old, now-uncommon Finnish word for a shallow river-crossing, the slow, wadeable stretch where herds and people could cross without the current sweeping them away. That is exactly why the paired towns [Ylivieska](https://fi.wikipedia.org/wiki/Ylivieska) and Alavieska ("upper" and "lower _vieska_") sit along the same river, the Kalajoki, upstream and down. (A folk theory derives _vieska_ instead from spots where reindeer pawed away snow to reach lichen, but a reindeer scrape would hardly give its name to a town; the river-crossing is far likelier.) The modern word for a ford, _kahlaamo_, is accurate but never appears in place names, so _vieska_ is the better toponymic choice — used here for the Underground's several fords (Woodford → _Metsävieska_, Oxford Circus → _Härkävieskanaukio_). The result is _Vihervieska_, "green ford."
+
+This is the project's reference note for the _vieska_ convention; the other ford names point back here.
 
 ## Conclusion
 
