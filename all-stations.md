@@ -1,274 +1,274 @@
 # List of all stations
 
-| Original name                              | Finnish name                                      | Line(s)                                      |
-| ------------------------------------------ | ------------------------------------------------- | -------------------------------------------- |
-| [Acton Town](stations/acton.md)            | [Tammela](stations/acton.md)                      | District, Piccadilly                         |
-| Aldgate                                    | tbd                                               |                                              |
-| Aldgate East                               | tbd                                               |                                              |
-| Alperton                                   | tbd                                               |                                              |
-| Amersham                                   | tbd                                               |                                              |
-| [Angel](stations/angel.md)                 | [Angeli](stations/angel.md)                       | Northern                                     |
-| Archway                                    | tbd                                               |                                              |
-| Arnos Grove                                | tbd                                               |                                              |
-| Arsenal                                    | tbd                                               |                                              |
-| Baker Street                               | tbd                                               |                                              |
-| Balham                                     | tbd                                               |                                              |
-| [Bank](stations/bank.md)                   | [Suomen Pankki](stations/bank.md)                 | Central, Northern, Waterloo & City           |
-| Barbican                                   | Linnoitusportti                                   |                                              |
-| Barking                                    | tbd                                               |                                              |
-| Barkingside                                | Parkinpuoli                                       |                                              |
-| Barons Court                               | tbd                                               |                                              |
-| Bayswater                                  | tbd                                               |                                              |
-| Becontree                                  | tbd                                               |                                              |
-| Belsize Park                               | tbd                                               |                                              |
-| [Bermondsey](stations/bermondsey.md)       | [Karhuvartiansaari](stations/bermondsey.md)       | Jubilee                                      |
-| Bethnal Green                              | Onnikulmanniitty                                  |                                              |
-| Blackfriars                                | tbd                                               |                                              |
-| Blackhorse Road                            | tbd                                               |                                              |
-| [Bond Street](stations/bond-street.md)     | [Talonpojankatu](stations/bond-street.md)         | Central, Jubilee                             |
-| Borough                                    | tbd                                               |                                              |
-| Boston Manor                               | tbd                                               |                                              |
-| Bounds Green                               | tbd                                               |                                              |
-| Bow Road                                   | tbd                                               |                                              |
-| Brent Cross                                | tbd                                               |                                              |
-| Brixton                                    | tbd                                               |                                              |
-| Bromley-by-Bow                             | tbd                                               |                                              |
-| Buckhurst Hill                             | Pyökkimäki                                        |                                              |
-| Burnt Oak                                  | tbd                                               |                                              |
-| Caledonian Road                            | tbd                                               |                                              |
-| Camden Town                                | tbd                                               |                                              |
-| Canada Water                               | tbd                                               |                                              |
-| Canary Wharf                               | tbd                                               |                                              |
-| Canning Town                               | tbd                                               |                                              |
-| Cannon Street                              | tbd                                               |                                              |
-| Canons Park                                | tbd                                               |                                              |
-| Chalfont & Latimer                         | tbd                                               |                                              |
-| Chalk Farm                                 | tbd                                               |                                              |
-| [Chancery Lane](stations/chancery-lane.md) | [Kanslerioikeudenkuja](stations/chancery-lane.md) | Central                                      |
-| Charing Cross                              | tbd                                               |                                              |
-| Chesham                                    | tbd                                               |                                              |
-| Chigwell                                   | Kiikankaivo                                       |                                              |
-| Chiswick Park                              | tbd                                               |                                              |
-| Chorleywood                                | tbd                                               |                                              |
-| Clapham Common                             | tbd                                               |                                              |
-| Clapham North                              | tbd                                               |                                              |
-| Clapham South                              | tbd                                               |                                              |
-| Cockfosters                                | tbd                                               |                                              |
-| Colindale                                  | tbd                                               |                                              |
-| Colliers Wood                              | tbd                                               |                                              |
-| Covent Garden                              | tbd                                               |                                              |
-| Croxley                                    | tbd                                               |                                              |
-| Dagenham East                              | tbd                                               |                                              |
-| Dagenham Heathway                          | tbd                                               |                                              |
-| Debden                                     | Syvälaakso                                        |                                              |
-| Dollis Hill                                | tbd                                               |                                              |
-| Ealing Broadway                            | Killangin maantie                                 |                                              |
-| Ealing Common                              | tbd                                               |                                              |
-| Earls Court                                | tbd                                               |                                              |
-| [East Acton](stations/acton.md)            | [Itä-Tammela](stations/acton.md)                  | Central                                      |
-| East Finchley                              | tbd                                               |                                              |
-| East Ham                                   | tbd                                               |                                              |
-| East India                                 | tbd                                               |                                              |
-| East Putney                                | tbd                                               |                                              |
-| Eastcote                                   | tbd                                               |                                              |
-| Edgware                                    | tbd                                               |                                              |
-| Edgware Road                               | tbd                                               |                                              |
-| Elephant and Castle                        | tbd                                               |                                              |
-| Elm Park                                   | tbd                                               |                                              |
-| Embankment                                 | tbd                                               |                                              |
-| Epping                                     | Epilä                                             |                                              |
-| Euston                                     | tbd                                               |                                              |
-| Euston Square                              | tbd                                               |                                              |
-| [Fairlop](stations/fairlop.md)             | [Isokarsikko](stations/fairlop.md)                | Central                                      |
-| Farringdon                                 | tbd                                               |                                              |
-| Finchley Central                           | tbd                                               |                                              |
-| Finchley Road                              | tbd                                               |                                              |
-| Finsbury Park                              | tbd                                               |                                              |
-| Fulham Broadway                            | tbd                                               |                                              |
-| Gants Hill                                 | Gantinmäki                                        |                                              |
-| Gloucester Road                            | tbd                                               |                                              |
-| Golders Green                              | tbd                                               |                                              |
-| Goldhawk Road                              | tbd                                               |                                              |
-| Goodge Street                              | tbd                                               |                                              |
-| Grange Hill                                | Maatilanmäki                                      |                                              |
-| Great Portland Street                      | tbd                                               |                                              |
-| Green Park                                 | tbd                                               |                                              |
-| [Greenford](stations/greenford.md)         | [Vihervieska](stations/greenford.md)              | Central                                      |
-| Gunnersbury                                | tbd                                               |                                              |
-| Hainault                                   | Pitäjänmetsä                                      |                                              |
-| Hammersmith                                | tbd                                               |                                              |
-| Hampstead                                  | tbd                                               |                                              |
-| Hanger Lane                                | Metsärinteenkuja                                  |                                              |
-| Harlesden                                  | tbd                                               |                                              |
-| Harrow and Wealdstone                      | tbd                                               |                                              |
-| Harrow-on-the-Hill                         | tbd                                               |                                              |
-| Hatton Cross                               | tbd                                               |                                              |
-| Heahtrow Terminal 5                        | tbd                                               |                                              |
-| Heathrow 2,3                               | tbd                                               |                                              |
-| Heathrow Terminal 4                        | tbd                                               |                                              |
-| Hendon Central                             | tbd                                               |                                              |
-| High Barnet                                | tbd                                               |                                              |
-| High Street Kensington                     | tbd                                               |                                              |
-| Highbury and Islington                     | tbd                                               |                                              |
-| Highgate                                   | tbd                                               |                                              |
-| Hillingdon                                 | tbd                                               |                                              |
-| [Holborn](stations/holborn.md)             | [Notkopuro](stations/holborn.md)                  | Central, Piccadilly                          |
-| Holland Park                               | Hollanninpuisto                                   |                                              |
-| Holloway Road                              | tbd                                               |                                              |
-| Hornchurch                                 | tbd                                               |                                              |
-| Hounslow Central                           | tbd                                               |                                              |
-| Hounslow East                              | tbd                                               |                                              |
-| Hounslow West                              | tbd                                               |                                              |
-| Hyde Park Corner                           | tbd                                               |                                              |
-| Ickenham                                   | tbd                                               |                                              |
-| Kennington                                 | tbd                                               |                                              |
-| Kensal Green                               | tbd                                               |                                              |
-| Kensington (Olympia)                       | tbd                                               |                                              |
-| Kentish Town                               | tbd                                               |                                              |
-| Kenton                                     | tbd                                               |                                              |
-| Kew Gardens                                | tbd                                               |                                              |
-| Kilburn                                    | tbd                                               |                                              |
-| Kilburn Park                               | tbd                                               |                                              |
-| Kings Cross St. Pancras                    | Kuninkaanristi - Pyhä Pancratius                  |                                              |
-| Kingsbury                                  | Kuninkaanlinna                                    |                                              |
-| Knightsbridge                              | tbd                                               |                                              |
-| Ladbroke Grove                             | tbd                                               |                                              |
-| Lambeth North                              | tbd                                               |                                              |
-| Lancaster Gate                             | Jokilinnanportti                                  |                                              |
-| Latimer Road                               | tbd                                               |                                              |
-| Leicester Square                           | tbd                                               |                                              |
-| Leyton                                     | Jokela                                            |                                              |
-| Leytonstone                                | Jokelanpylväs                                     |                                              |
-| Limehouse                                  | tbd                                               |                                              |
-| Liverpool Street                           | Mutalahdenkatu                                    |                                              |
-| [London Bridge](stations/london-bridge.md) | [Lontoonsilta](stations/london-bridge.md)         | Jubilee, Northern                            |
-| Loughton                                   | Lohtila                                           |                                              |
-| Maida Vale                                 | tbd                                               |                                              |
-| Manor House                                | tbd                                               |                                              |
-| Manor Park                                 | tbd                                               |                                              |
-| Mansion House                              | tbd                                               |                                              |
-| [Marble Arch](stations/marble-arch.md)     | [Marmorikaari](stations/marble-arch.md)           | Central                                      |
-| Marylebone                                 | tbd                                               |                                              |
-| Mile End                                   | Mailinpää                                         |                                              |
-| Mill Hill East                             | tbd                                               |                                              |
-| [Monument](stations/monument.md)           | [Monumentti](stations/monument.md)                | Circle, District                             |
-| Moor Park                                  | Nummipuisto                                       |                                              |
-| Moorgate                                   | Nummiportti                                       |                                              |
-| [Morden](stations/morden.md)               | [Suomäki](stations/morden.md)                     | Northern                                     |
-| Mornington Crescent                        | tbd                                               |                                              |
-| Neasden                                    | tbd                                               |                                              |
-| Newbury Park                               | Uudenlinnanpuisto                                 |                                              |
-| [North Acton](stations/acton.md)           | [Pohjois-Tammela](stations/acton.md)              | Central, District, Piccadilly                |
-| North Ealing                               | Pohjois-Killanki                                  |                                              |
-| North Greenwich                            | tbd                                               |                                              |
-| North Harrow                               | tbd                                               |                                              |
-| North Wembley                              | tbd                                               |                                              |
-| Northfields                                | tbd                                               |                                              |
-| Northolt                                   | Pohjoiskulma                                      |                                              |
-| Northwick Park                             | tbd                                               |                                              |
-| Northwood                                  | Pohjolanmetsä                                     |                                              |
-| Northwood Hills                            | tbd                                               |                                              |
-| Notting Hill Gate                          | Knottilanmäenportti                               |                                              |
-| [Oakwood](stations/oakwood.md)             | [Tammimetsä](stations/oakwood.md)                 | Piccadilly                                   |
-| Old Street                                 | Vanhatie                                          |                                              |
-| Osterley                                   | tbd                                               |                                              |
-| Oval                                       | tbd                                               |                                              |
-| Oxford Circus                              | Härkävieskanaukio                                 |                                              |
-| Paddington                                 | tbd                                               |                                              |
-| Park Royal                                 | tbd                                               |                                              |
-| Parsons Green                              | tbd                                               |                                              |
-| [Perivale](stations/perivale.md)           | [Päärynälaakso](stations/perivale.md)             | Central                                      |
-| Piccadilly Circus                          | tbd                                               |                                              |
-| Pimlico                                    | tbd                                               |                                              |
-| Pinner                                     | tbd                                               |                                              |
-| Plaistow                                   | tbd                                               |                                              |
-| Preston Road                               | tbd                                               |                                              |
-| Putney Bridge                              | tbd                                               |                                              |
-| Queens Park                                | tbd                                               |                                              |
-| Queensbury                                 | tbd                                               |                                              |
-| Queensway                                  | Kuningattarentie                                  |                                              |
-| Ravenscourt Park                           | tbd                                               |                                              |
-| Rayners Lane                               | tbd                                               |                                              |
-| Redbridge                                  | Punainensilta                                     |                                              |
-| Regents Park                               | tbd                                               |                                              |
-| Richmond                                   | tbd                                               |                                              |
-| Rickmansworth                              | tbd                                               |                                              |
-| Roding Valley                              | Rootinginlaakso                                   |                                              |
-| Royal Oak                                  | tbd                                               |                                              |
-| Ruislip                                    | tbd                                               |                                              |
-| Ruislip Gardens                            | tbd                                               |                                              |
-| Ruislip Manor                              | tbd                                               |                                              |
-| Russell Square                             | tbd                                               |                                              |
-| Seven Sisters                              | tbd                                               |                                              |
-| Shepherds Bush                             | Lampurinpensaikko                                 |                                              |
-| Shepherds Bush Market                      | tbd                                               |                                              |
-| Sloane Square                              | tbd                                               |                                              |
-| [Snaresbrook](stations/snaresbrook.md)     | [Säynepuro](stations/snaresbrook.md)              | Central                                      |
-| South Ealing                               | tbd                                               |                                              |
-| South Harrow                               | tbd                                               |                                              |
-| South Kensington                           | tbd                                               |                                              |
-| South Kenton                               | tbd                                               |                                              |
-| South Ruislip                              | tbd                                               |                                              |
-| South Wimbledon                            | tbd                                               |                                              |
-| South Woodford                             | Etelä-Metsävieska                                 |                                              |
-| Southfields                                | tbd                                               |                                              |
-| Southgate                                  | tbd                                               |                                              |
-| Southwark                                  | tbd                                               |                                              |
-| St. James's Park                           | tbd                                               |                                              |
-| St. Johns Wood                             | tbd                                               |                                              |
-| [St. Pauls](stations/st-pauls.md)          | [Paavalinkirkko](stations/st-pauls.md)            | Central                                      |
-| Stamford Brook                             | tbd                                               |                                              |
-| Stanmore                                   | tbd                                               |                                              |
-| Stepney Green                              | tbd                                               |                                              |
-| Stockwell                                  | tbd                                               |                                              |
-| Stonebridge Park                           | tbd                                               |                                              |
-| Stratford                                  | Katuvieska                                        |                                              |
-| Sudbury Hill                               | tbd                                               |                                              |
-| Sudbury Town                               | tbd                                               |                                              |
-| Swiss Cottage                              | tbd                                               |                                              |
-| Temple                                     | tbd                                               |                                              |
-| [Theydon Bois](stations/theydon-bois.md)   | [Ruokolaakso-Metsälä](stations/theydon-bois.md)   | Central                                      |
-| Tooting Bec                                | tbd                                               |                                              |
-| Tooting Broadway                           | tbd                                               |                                              |
-| Tottenham Court Road                       | Tottilankartanontie                               |                                              |
-| Tottenham Hale                             | tbd                                               |                                              |
-| Totteridge & Whetstone                     | tbd                                               |                                              |
-| Tower Hill                                 | tbd                                               |                                              |
-| Tufnell Park                               | tbd                                               |                                              |
-| Turnham Green                              | tbd                                               |                                              |
-| Turnpike Lane                              | tbd                                               |                                              |
-| Upminster                                  | tbd                                               |                                              |
-| Upminster Bridge                           | tbd                                               |                                              |
-| Upney                                      | tbd                                               |                                              |
-| Upton Park                                 | tbd                                               |                                              |
-| Uxbridge                                   | tbd                                               |                                              |
-| Vauxhall                                   | tbd                                               |                                              |
-| Victoria                                   | tbd                                               |                                              |
-| Walthamstow Central                        | tbd                                               |                                              |
-| Wanstead                                   | Mäkelä                                            |                                              |
-| Warren Street                              | tbd                                               |                                              |
-| Warwick Avenue                             | tbd                                               |                                              |
-| [Waterloo](stations/waterloo.md)           | [Vesiaho](stations/waterloo.md)                   | Bakerloo, Northern, Jubilee, Waterloo & City |
-| Watford                                    | tbd                                               |                                              |
-| Wembley Central                            | tbd                                               |                                              |
-| Wembley Park                               | tbd                                               |                                              |
-| [West Acton](stations/acton.md)            | [Länsi-Tammela](stations/acton.md)                | Central                                      |
-| West Brompton                              | tbd                                               |                                              |
-| West Finchley                              | tbd                                               |                                              |
-| West Ham                                   | tbd                                               |                                              |
-| West Hampstead                             | tbd                                               |                                              |
-| West Harrow                                | tbd                                               |                                              |
-| West Kensington                            | tbd                                               |                                              |
-| West Ruislip                               | tbd                                               |                                              |
-| Westbourne Park                            | tbd                                               |                                              |
-| Westminster                                | tbd                                               |                                              |
-| White City                                 | Valkoinenkaupunki                                 |                                              |
-| Whitechapel                                | tbd                                               |                                              |
-| Willesden Green                            | tbd                                               |                                              |
-| Willesden Junction                         | tbd                                               |                                              |
-| Wimbledon                                  | tbd                                               |                                              |
-| Wimbledon Park                             | tbd                                               |                                              |
-| Wood Green                                 | tbd                                               |                                              |
-| Wood Lane                                  | tbd                                               |                                              |
-| Woodford                                   | Metsävieska                                       |                                              |
-| Woodside Park                              | tbd                                               |                                              |
+| Original name                                    | Finnish name                                      | Line(s)                                           |
+| ------------------------------------------------ | ------------------------------------------------- | ------------------------------------------------- |
+| [Acton Town](stations/acton.md)                  | [Tammela](stations/acton.md)                      | District, Piccadilly                              |
+| Aldgate                                          | tbd                                               |                                                   |
+| Aldgate East                                     | tbd                                               |                                                   |
+| Alperton                                         | tbd                                               |                                                   |
+| Amersham                                         | tbd                                               |                                                   |
+| [Angel](stations/angel.md)                       | [Angeli](stations/angel.md)                       | Northern                                          |
+| Archway                                          | tbd                                               |                                                   |
+| Arnos Grove                                      | tbd                                               |                                                   |
+| Arsenal                                          | tbd                                               |                                                   |
+| Baker Street                                     | tbd                                               |                                                   |
+| Balham                                           | tbd                                               |                                                   |
+| [Bank](stations/bank.md)                         | [Suomen Pankki](stations/bank.md)                 | Central, Northern, Waterloo & City                |
+| Barbican                                         | Linnoitusportti                                   |                                                   |
+| Barking                                          | tbd                                               |                                                   |
+| Barkingside                                      | Parkinpuoli                                       |                                                   |
+| Barons Court                                     | tbd                                               |                                                   |
+| Bayswater                                        | tbd                                               |                                                   |
+| Becontree                                        | tbd                                               |                                                   |
+| Belsize Park                                     | tbd                                               |                                                   |
+| [Bermondsey](stations/bermondsey.md)             | [Karhuvartiansaari](stations/bermondsey.md)       | Jubilee                                           |
+| Bethnal Green                                    | Onnikulmanniitty                                  |                                                   |
+| Blackfriars                                      | tbd                                               |                                                   |
+| Blackhorse Road                                  | tbd                                               |                                                   |
+| [Bond Street](stations/bond-street.md)           | [Talonpojankatu](stations/bond-street.md)         | Central, Jubilee                                  |
+| Borough                                          | tbd                                               |                                                   |
+| Boston Manor                                     | tbd                                               |                                                   |
+| Bounds Green                                     | tbd                                               |                                                   |
+| Bow Road                                         | tbd                                               |                                                   |
+| Brent Cross                                      | tbd                                               |                                                   |
+| Brixton                                          | tbd                                               |                                                   |
+| Bromley-by-Bow                                   | tbd                                               |                                                   |
+| [Buckhurst Hill](stations/buckhurst-hill.md)     | [Pyökkimäki](stations/buckhurst-hill.md)          | Central                                           |
+| Burnt Oak                                        | tbd                                               |                                                   |
+| Caledonian Road                                  | tbd                                               |                                                   |
+| Camden Town                                      | tbd                                               |                                                   |
+| Canada Water                                     | tbd                                               |                                                   |
+| Canary Wharf                                     | tbd                                               |                                                   |
+| Canning Town                                     | tbd                                               |                                                   |
+| Cannon Street                                    | tbd                                               |                                                   |
+| Canons Park                                      | tbd                                               |                                                   |
+| Chalfont & Latimer                               | tbd                                               |                                                   |
+| Chalk Farm                                       | tbd                                               |                                                   |
+| [Chancery Lane](stations/chancery-lane.md)       | [Kanslerioikeudenkuja](stations/chancery-lane.md) | Central                                           |
+| Charing Cross                                    | tbd                                               |                                                   |
+| Chesham                                          | tbd                                               |                                                   |
+| Chigwell                                         | Kiikankaivo                                       |                                                   |
+| Chiswick Park                                    | tbd                                               |                                                   |
+| Chorleywood                                      | tbd                                               |                                                   |
+| Clapham Common                                   | tbd                                               |                                                   |
+| Clapham North                                    | tbd                                               |                                                   |
+| Clapham South                                    | tbd                                               |                                                   |
+| Cockfosters                                      | tbd                                               |                                                   |
+| Colindale                                        | tbd                                               |                                                   |
+| Colliers Wood                                    | tbd                                               |                                                   |
+| Covent Garden                                    | tbd                                               |                                                   |
+| Croxley                                          | tbd                                               |                                                   |
+| Dagenham East                                    | tbd                                               |                                                   |
+| Dagenham Heathway                                | tbd                                               |                                                   |
+| [Debden](stations/debden.md)                     | [Syvälaakso](stations/debden.md)                  | Central                                           |
+| Dollis Hill                                      | tbd                                               |                                                   |
+| Ealing Broadway                                  | Killangin maantie                                 |                                                   |
+| Ealing Common                                    | tbd                                               |                                                   |
+| Earls Court                                      | tbd                                               |                                                   |
+| [East Acton](stations/acton.md)                  | [Itä-Tammela](stations/acton.md)                  | Central                                           |
+| East Finchley                                    | tbd                                               |                                                   |
+| East Ham                                         | tbd                                               |                                                   |
+| East India                                       | tbd                                               |                                                   |
+| East Putney                                      | tbd                                               |                                                   |
+| Eastcote                                         | tbd                                               |                                                   |
+| Edgware                                          | tbd                                               |                                                   |
+| Edgware Road                                     | tbd                                               |                                                   |
+| Elephant and Castle                              | tbd                                               |                                                   |
+| Elm Park                                         | tbd                                               |                                                   |
+| Embankment                                       | tbd                                               |                                                   |
+| Epping                                           | Epilä                                             |                                                   |
+| Euston                                           | tbd                                               |                                                   |
+| Euston Square                                    | tbd                                               |                                                   |
+| [Fairlop](stations/fairlop.md)                   | [Isokarsikko](stations/fairlop.md)                | Central                                           |
+| Farringdon                                       | tbd                                               |                                                   |
+| Finchley Central                                 | tbd                                               |                                                   |
+| Finchley Road                                    | tbd                                               |                                                   |
+| Finsbury Park                                    | tbd                                               |                                                   |
+| Fulham Broadway                                  | tbd                                               |                                                   |
+| Gants Hill                                       | Gantinmäki                                        |                                                   |
+| Gloucester Road                                  | tbd                                               |                                                   |
+| Golders Green                                    | tbd                                               |                                                   |
+| Goldhawk Road                                    | tbd                                               |                                                   |
+| Goodge Street                                    | tbd                                               |                                                   |
+| [Grange Hill](stations/grange-hill.md)           | [Tilanmäki](stations/grange-hill.md)              | Central                                           |
+| Great Portland Street                            | tbd                                               |                                                   |
+| Green Park                                       | tbd                                               |                                                   |
+| [Greenford](stations/greenford.md)               | [Vihervieska](stations/greenford.md)              | Central                                           |
+| Gunnersbury                                      | tbd                                               |                                                   |
+| [Hainault](stations/hainault.md)                 | [Pitäjänmetsä](stations/hainault.md)              | Central                                           |
+| Hammersmith                                      | tbd                                               |                                                   |
+| Hampstead                                        | tbd                                               |                                                   |
+| Hanger Lane                                      | Metsärinteenkuja                                  |                                                   |
+| Harlesden                                        | tbd                                               |                                                   |
+| Harrow and Wealdstone                            | tbd                                               |                                                   |
+| Harrow-on-the-Hill                               | tbd                                               |                                                   |
+| Hatton Cross                                     | tbd                                               |                                                   |
+| Heahtrow Terminal 5                              | tbd                                               |                                                   |
+| Heathrow 2,3                                     | tbd                                               |                                                   |
+| Heathrow Terminal 4                              | tbd                                               |                                                   |
+| Hendon Central                                   | tbd                                               |                                                   |
+| High Barnet                                      | tbd                                               |                                                   |
+| High Street Kensington                           | tbd                                               |                                                   |
+| Highbury and Islington                           | tbd                                               |                                                   |
+| Highgate                                         | tbd                                               |                                                   |
+| Hillingdon                                       | tbd                                               |                                                   |
+| [Holborn](stations/holborn.md)                   | [Notkopuro](stations/holborn.md)                  | Central, Piccadilly                               |
+| Holland Park                                     | Hollanninpuisto                                   |                                                   |
+| Holloway Road                                    | tbd                                               |                                                   |
+| Hornchurch                                       | tbd                                               |                                                   |
+| Hounslow Central                                 | tbd                                               |                                                   |
+| Hounslow East                                    | tbd                                               |                                                   |
+| Hounslow West                                    | tbd                                               |                                                   |
+| Hyde Park Corner                                 | tbd                                               |                                                   |
+| Ickenham                                         | tbd                                               |                                                   |
+| Kennington                                       | tbd                                               |                                                   |
+| Kensal Green                                     | tbd                                               |                                                   |
+| Kensington (Olympia)                             | tbd                                               |                                                   |
+| Kentish Town                                     | tbd                                               |                                                   |
+| Kenton                                           | tbd                                               |                                                   |
+| Kew Gardens                                      | tbd                                               |                                                   |
+| Kilburn                                          | tbd                                               |                                                   |
+| Kilburn Park                                     | tbd                                               |                                                   |
+| Kings Cross St. Pancras                          | Kuninkaanristi - Pyhä Pancratius                  |                                                   |
+| Kingsbury                                        | Kuninkaanlinna                                    |                                                   |
+| Knightsbridge                                    | tbd                                               |                                                   |
+| Ladbroke Grove                                   | tbd                                               |                                                   |
+| Lambeth North                                    | tbd                                               |                                                   |
+| Lancaster Gate                                   | Jokilinnanportti                                  |                                                   |
+| Latimer Road                                     | tbd                                               |                                                   |
+| Leicester Square                                 | tbd                                               |                                                   |
+| Leyton                                           | Jokela                                            |                                                   |
+| Leytonstone                                      | Jokelanpylväs                                     |                                                   |
+| Limehouse                                        | tbd                                               |                                                   |
+| [Liverpool Street](stations/liverpool-street.md) | [Mutalahdenkatu](stations/liverpool-street.md)    | Central, Circle, Hammersmith & City, Metropolitan |
+| [London Bridge](stations/london-bridge.md)       | [Lontoonsilta](stations/london-bridge.md)         | Jubilee, Northern                                 |
+| Loughton                                         | Lohtila                                           |                                                   |
+| Maida Vale                                       | tbd                                               |                                                   |
+| Manor House                                      | tbd                                               |                                                   |
+| Manor Park                                       | tbd                                               |                                                   |
+| Mansion House                                    | tbd                                               |                                                   |
+| [Marble Arch](stations/marble-arch.md)           | [Marmorikaari](stations/marble-arch.md)           | Central                                           |
+| Marylebone                                       | tbd                                               |                                                   |
+| [Mile End](stations/mile-end.md)                 | [Mailinpää](stations/mile-end.md)                 | Central, District, Hammersmith & City             |
+| Mill Hill East                                   | tbd                                               |                                                   |
+| [Monument](stations/monument.md)                 | [Monumentti](stations/monument.md)                | Circle, District                                  |
+| Moor Park                                        | Nummipuisto                                       |                                                   |
+| Moorgate                                         | Nummiportti                                       |                                                   |
+| [Morden](stations/morden.md)                     | [Suomäki](stations/morden.md)                     | Northern                                          |
+| Mornington Crescent                              | tbd                                               |                                                   |
+| Neasden                                          | tbd                                               |                                                   |
+| Newbury Park                                     | Uudenlinnanpuisto                                 |                                                   |
+| [North Acton](stations/acton.md)                 | [Pohjois-Tammela](stations/acton.md)              | Central, District, Piccadilly                     |
+| North Ealing                                     | Pohjois-Killanki                                  |                                                   |
+| North Greenwich                                  | tbd                                               |                                                   |
+| North Harrow                                     | tbd                                               |                                                   |
+| North Wembley                                    | tbd                                               |                                                   |
+| Northfields                                      | tbd                                               |                                                   |
+| Northolt                                         | Pohjoiskulma                                      |                                                   |
+| Northwick Park                                   | tbd                                               |                                                   |
+| Northwood                                        | Pohjolanmetsä                                     |                                                   |
+| Northwood Hills                                  | tbd                                               |                                                   |
+| Notting Hill Gate                                | Knottilanmäenportti                               |                                                   |
+| [Oakwood](stations/oakwood.md)                   | [Tammimetsä](stations/oakwood.md)                 | Piccadilly                                        |
+| Old Street                                       | Vanhatie                                          |                                                   |
+| Osterley                                         | tbd                                               |                                                   |
+| Oval                                             | tbd                                               |                                                   |
+| Oxford Circus                                    | Härkävieskanaukio                                 |                                                   |
+| Paddington                                       | tbd                                               |                                                   |
+| Park Royal                                       | tbd                                               |                                                   |
+| Parsons Green                                    | tbd                                               |                                                   |
+| [Perivale](stations/perivale.md)                 | [Päärynälaakso](stations/perivale.md)             | Central                                           |
+| Piccadilly Circus                                | tbd                                               |                                                   |
+| Pimlico                                          | tbd                                               |                                                   |
+| Pinner                                           | tbd                                               |                                                   |
+| Plaistow                                         | tbd                                               |                                                   |
+| Preston Road                                     | tbd                                               |                                                   |
+| Putney Bridge                                    | tbd                                               |                                                   |
+| Queens Park                                      | tbd                                               |                                                   |
+| Queensbury                                       | tbd                                               |                                                   |
+| Queensway                                        | Kuningattarentie                                  |                                                   |
+| Ravenscourt Park                                 | tbd                                               |                                                   |
+| Rayners Lane                                     | tbd                                               |                                                   |
+| Redbridge                                        | Punainensilta                                     |                                                   |
+| Regents Park                                     | tbd                                               |                                                   |
+| Richmond                                         | tbd                                               |                                                   |
+| Rickmansworth                                    | tbd                                               |                                                   |
+| Roding Valley                                    | Rootinginlaakso                                   |                                                   |
+| Royal Oak                                        | tbd                                               |                                                   |
+| Ruislip                                          | tbd                                               |                                                   |
+| Ruislip Gardens                                  | tbd                                               |                                                   |
+| Ruislip Manor                                    | tbd                                               |                                                   |
+| Russell Square                                   | tbd                                               |                                                   |
+| Seven Sisters                                    | tbd                                               |                                                   |
+| Shepherds Bush                                   | Lampurinpensaikko                                 |                                                   |
+| Shepherds Bush Market                            | tbd                                               |                                                   |
+| Sloane Square                                    | tbd                                               |                                                   |
+| [Snaresbrook](stations/snaresbrook.md)           | [Säynepuro](stations/snaresbrook.md)              | Central                                           |
+| South Ealing                                     | tbd                                               |                                                   |
+| South Harrow                                     | tbd                                               |                                                   |
+| South Kensington                                 | tbd                                               |                                                   |
+| South Kenton                                     | tbd                                               |                                                   |
+| South Ruislip                                    | tbd                                               |                                                   |
+| South Wimbledon                                  | tbd                                               |                                                   |
+| South Woodford                                   | Etelä-Metsävieska                                 |                                                   |
+| Southfields                                      | tbd                                               |                                                   |
+| Southgate                                        | tbd                                               |                                                   |
+| Southwark                                        | tbd                                               |                                                   |
+| St. James's Park                                 | tbd                                               |                                                   |
+| St. Johns Wood                                   | tbd                                               |                                                   |
+| [St. Pauls](stations/st-pauls.md)                | [Paavalinkirkko](stations/st-pauls.md)            | Central                                           |
+| Stamford Brook                                   | tbd                                               |                                                   |
+| Stanmore                                         | tbd                                               |                                                   |
+| Stepney Green                                    | tbd                                               |                                                   |
+| Stockwell                                        | tbd                                               |                                                   |
+| Stonebridge Park                                 | tbd                                               |                                                   |
+| Stratford                                        | Katuvieska                                        |                                                   |
+| Sudbury Hill                                     | tbd                                               |                                                   |
+| Sudbury Town                                     | tbd                                               |                                                   |
+| Swiss Cottage                                    | tbd                                               |                                                   |
+| Temple                                           | tbd                                               |                                                   |
+| [Theydon Bois](stations/theydon-bois.md)         | [Ruokolaakso-Metsälä](stations/theydon-bois.md)   | Central                                           |
+| Tooting Bec                                      | tbd                                               |                                                   |
+| Tooting Broadway                                 | tbd                                               |                                                   |
+| Tottenham Court Road                             | Tottilankartanontie                               |                                                   |
+| Tottenham Hale                                   | tbd                                               |                                                   |
+| Totteridge & Whetstone                           | tbd                                               |                                                   |
+| Tower Hill                                       | tbd                                               |                                                   |
+| Tufnell Park                                     | tbd                                               |                                                   |
+| Turnham Green                                    | tbd                                               |                                                   |
+| Turnpike Lane                                    | tbd                                               |                                                   |
+| Upminster                                        | tbd                                               |                                                   |
+| Upminster Bridge                                 | tbd                                               |                                                   |
+| Upney                                            | tbd                                               |                                                   |
+| Upton Park                                       | tbd                                               |                                                   |
+| Uxbridge                                         | tbd                                               |                                                   |
+| Vauxhall                                         | tbd                                               |                                                   |
+| Victoria                                         | tbd                                               |                                                   |
+| Walthamstow Central                              | tbd                                               |                                                   |
+| Wanstead                                         | Mäkelä                                            |                                                   |
+| Warren Street                                    | tbd                                               |                                                   |
+| Warwick Avenue                                   | tbd                                               |                                                   |
+| [Waterloo](stations/waterloo.md)                 | [Vesiaho](stations/waterloo.md)                   | Bakerloo, Northern, Jubilee, Waterloo & City      |
+| Watford                                          | tbd                                               |                                                   |
+| Wembley Central                                  | tbd                                               |                                                   |
+| Wembley Park                                     | tbd                                               |                                                   |
+| [West Acton](stations/acton.md)                  | [Länsi-Tammela](stations/acton.md)                | Central                                           |
+| West Brompton                                    | tbd                                               |                                                   |
+| West Finchley                                    | tbd                                               |                                                   |
+| West Ham                                         | tbd                                               |                                                   |
+| West Hampstead                                   | tbd                                               |                                                   |
+| West Harrow                                      | tbd                                               |                                                   |
+| West Kensington                                  | tbd                                               |                                                   |
+| West Ruislip                                     | tbd                                               |                                                   |
+| Westbourne Park                                  | tbd                                               |                                                   |
+| Westminster                                      | tbd                                               |                                                   |
+| White City                                       | Valkoinenkaupunki                                 |                                                   |
+| Whitechapel                                      | tbd                                               |                                                   |
+| Willesden Green                                  | tbd                                               |                                                   |
+| Willesden Junction                               | tbd                                               |                                                   |
+| Wimbledon                                        | tbd                                               |                                                   |
+| Wimbledon Park                                   | tbd                                               |                                                   |
+| Wood Green                                       | tbd                                               |                                                   |
+| Wood Lane                                        | tbd                                               |                                                   |
+| Woodford                                         | Metsävieska                                       |                                                   |
+| Woodside Park                                    | tbd                                               |                                                   |
