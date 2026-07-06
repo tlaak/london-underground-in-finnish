@@ -93,7 +93,7 @@
 | Grange Hill                                | Maatilanmäki                                      |                                              |
 | Great Portland Street                      | tbd                                               |                                              |
 | Green Park                                 | tbd                                               |                                              |
-| Greenford                                  | Vihervieska                                       |                                              |
+| [Greenford](stations/greenford.md)         | [Vihervieska](stations/greenford.md)              | Central                                      |
 | Gunnersbury                                | tbd                                               |                                              |
 | Hainault                                   | Pitäjänmetsä                                      |                                              |
 | Hammersmith                                | tbd                                               |                                              |
@@ -112,7 +112,7 @@
 | Highbury and Islington                     | tbd                                               |                                              |
 | Highgate                                   | tbd                                               |                                              |
 | Hillingdon                                 | tbd                                               |                                              |
-| Holborn                                    | Notkopuro                                         |                                              |
+| [Holborn](stations/holborn.md)             | [Notkopuro](stations/holborn.md)                  | Central, Piccadilly                          |
 | Holland Park                               | Hollanninpuisto                                   |                                              |
 | Holloway Road                              | tbd                                               |                                              |
 | Hornchurch                                 | tbd                                               |                                              |
@@ -141,7 +141,7 @@
 | Leytonstone                                | Jokelanpylväs                                     |                                              |
 | Limehouse                                  | tbd                                               |                                              |
 | Liverpool Street                           | Mutalahdenkatu                                    |                                              |
-| London Bridge                              | Lontoonsilta                                      |                                              |
+| [London Bridge](stations/london-bridge.md) | [Lontoonsilta](stations/london-bridge.md)         | Jubilee, Northern                            |
 | Loughton                                   | Lohtila                                           |                                              |
 | Maida Vale                                 | tbd                                               |                                              |
 | Manor House                                | tbd                                               |                                              |
@@ -151,7 +151,7 @@
 | Marylebone                                 | tbd                                               |                                              |
 | Mile End                                   | Mailinpää                                         |                                              |
 | Mill Hill East                             | tbd                                               |                                              |
-| Monument                                   | Monumentti                                        |                                              |
+| [Monument](stations/monument.md)           | [Monumentti](stations/monument.md)                | Circle, District                             |
 | Moor Park                                  | Nummipuisto                                       |                                              |
 | Moorgate                                   | Nummiportti                                       |                                              |
 | [Morden](stations/morden.md)               | [Suomäki](stations/morden.md)                     | Northern                                     |
@@ -169,7 +169,7 @@
 | Northwood                                  | Pohjolanmetsä                                     |                                              |
 | Northwood Hills                            | tbd                                               |                                              |
 | Notting Hill Gate                          | Knottilanmäenportti                               |                                              |
-| Oakwood                                    | Tammimetsä                                        |                                              |
+| [Oakwood](stations/oakwood.md)             | [Tammimetsä](stations/oakwood.md)                 | Piccadilly                                   |
 | Old Street                                 | Vanhatie                                          |                                              |
 | Osterley                                   | tbd                                               |                                              |
 | Oval                                       | tbd                                               |                                              |
@@ -177,7 +177,7 @@
 | Paddington                                 | tbd                                               |                                              |
 | Park Royal                                 | tbd                                               |                                              |
 | Parsons Green                              | tbd                                               |                                              |
-| Perivale                                   | Päärynälaakso                                     |                                              |
+| [Perivale](stations/perivale.md)           | [Päärynälaakso](stations/perivale.md)             | Central                                      |
 | Piccadilly Circus                          | tbd                                               |                                              |
 | Pimlico                                    | tbd                                               |                                              |
 | Pinner                                     | tbd                                               |                                              |
