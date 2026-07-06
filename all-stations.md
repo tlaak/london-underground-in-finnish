@@ -79,7 +79,7 @@
 | Epping                                     | Epilä                                             |                                              |
 | Euston                                     | tbd                                               |                                              |
 | Euston Square                              | tbd                                               |                                              |
-| Fairlop                                    | Markkinakarsikko                                  |                                              |
+| [Fairlop](stations/fairlop.md)             | [Isokarsikko](stations/fairlop.md)                | Central                                      |
 | Farringdon                                 | tbd                                               |                                              |
 | Finchley Central                           | tbd                                               |                                              |
 | Finchley Road                              | tbd                                               |                                              |
@@ -203,7 +203,7 @@
 | Shepherds Bush                             | Lampurinpensaikko                                 |                                              |
 | Shepherds Bush Market                      | tbd                                               |                                              |
 | Sloane Square                              | tbd                                               |                                              |
-| Snaresbrook                                | Ansapuro                                          |                                              |
+| [Snaresbrook](stations/snaresbrook.md)     | [Säynepuro](stations/snaresbrook.md)              | Central                                      |
 | South Ealing                               | tbd                                               |                                              |
 | South Harrow                               | tbd                                               |                                              |
 | South Kensington                           | tbd                                               |                                              |
