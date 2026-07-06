@@ -16,13 +16,13 @@
 | [Bank](stations/bank.md)                   | [Pankki](stations/bank.md)                        | Central, Northern, Waterloo & City |
 | Barbican                                   | Linnoitusportti                                   |                                    |
 | Barking                                    | tbd                                               |                                    |
-| Barkingside                                | Parikkalanpuoli                                   |                                    |
+| Barkingside                                | Parkinpuoli                                       |                                    |
 | Barons Court                               | tbd                                               |                                    |
 | Bayswater                                  | tbd                                               |                                    |
 | Becontree                                  | tbd                                               |                                    |
 | Belsize Park                               | tbd                                               |                                    |
 | Bermondsey                                 | tbd                                               |                                    |
-| Bethnal Green                              | Onnikulmankorpi                                   |                                    |
+| Bethnal Green                              | Onnikulmanniitty                                  |                                    |
 | Blackfriars                                | tbd                                               |                                    |
 | Blackhorse Road                            | tbd                                               |                                    |
 | [Bond Street](stations/bond-street.md)     | [Talonpojankatu](stations/bond-street.md)         | Central, Jubilee                   |
@@ -47,7 +47,7 @@
 | [Chancery Lane](stations/chancery-lane.md) | [Kanslerioikeudenkuja](stations/chancery-lane.md) | Central                            |
 | Charing Cross                              | tbd                                               |                                    |
 | Chesham                                    | tbd                                               |                                    |
-| Chigwell                                   | Kuninkaankaivo                                    |                                    |
+| Chigwell                                   | Kiikankaivo                                       |                                    |
 | Chiswick Park                              | tbd                                               |                                    |
 | Chorleywood                                | tbd                                               |                                    |
 | Clapham Common                             | tbd                                               |                                    |
@@ -130,7 +130,7 @@
 | Kilburn                                    | tbd                                               |                                    |
 | Kilburn Park                               | tbd                                               |                                    |
 | Kings Cross St. Pancras                    | Kuninkaanristi - Pyhä Pancratius                  |                                    |
-| Kingsbury                                  | Kuninkaankaupunki                                 |                                    |
+| Kingsbury                                  | Kuninkaanlinna                                    |                                    |
 | Knightsbridge                              | tbd                                               |                                    |
 | Ladbroke Grove                             | tbd                                               |                                    |
 | Lambeth North                              | tbd                                               |                                    |
@@ -157,14 +157,14 @@
 | Morden                                     | tbd                                               |                                    |
 | Mornington Crescent                        | tbd                                               |                                    |
 | Neasden                                    | tbd                                               |                                    |
-| Newbury Park                               | Uudenkaupunginpuisto                              |                                    |
+| Newbury Park                               | Uudenlinnanpuisto                                 |                                    |
 | [North Acton](stations/acton.md)           | [Pohjois-Tammela](stations/acton.md)              | Central, District, Piccadilly      |
 | North Ealing                               | Pohjois-Killanki                                  |                                    |
 | North Greenwich                            | tbd                                               |                                    |
 | North Harrow                               | tbd                                               |                                    |
 | North Wembley                              | tbd                                               |                                    |
 | Northfields                                | tbd                                               |                                    |
-| Northolt                                   | Pohjoismetsä                                      |                                    |
+| Northolt                                   | Pohjoiskulma                                      |                                    |
 | Northwick Park                             | tbd                                               |                                    |
 | Northwood                                  | Pohjolanmetsä                                     |                                    |
 | Northwood Hills                            | tbd                                               |                                    |
