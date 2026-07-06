@@ -7,7 +7,7 @@
 | Aldgate East                               | tbd                                               |                                    |
 | Alperton                                   | tbd                                               |                                    |
 | Amersham                                   | tbd                                               |                                    |
-| Angel                                      | tbd                                               |                                    |
+| [Angel](stations/angel.md)                 | [Angeli](stations/angel.md)                       | Northern                           |
 | Archway                                    | tbd                                               |                                    |
 | Arnos Grove                                | tbd                                               |                                    |
 | Arsenal                                    | tbd                                               |                                    |
