@@ -13,7 +13,7 @@
 | Arsenal                                    | tbd                                               |                                    |
 | Baker Street                               | tbd                                               |                                    |
 | Balham                                     | tbd                                               |                                    |
-| [Bank](stations/bank.md)                   | [Pankki](stations/bank.md)                        | Central, Northern, Waterloo & City |
+| [Bank](stations/bank.md)                   | [Suomen Pankki](stations/bank.md)                 | Central, Northern, Waterloo & City |
 | Barbican                                   | Linnoitusportti                                   |                                    |
 | Barking                                    | tbd                                               |                                    |
 | Barkingside                                | Parkinpuoli                                       |                                    |
