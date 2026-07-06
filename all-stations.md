@@ -16,7 +16,7 @@
 | [Bank](stations/bank.md)                         | [Suomen Pankki](stations/bank.md)                 | Central, Northern, Waterloo & City                |
 | Barbican                                         | Linnoitusportti                                   |                                                   |
 | Barking                                          | tbd                                               |                                                   |
-| Barkingside                                      | Parkinpuoli                                       |                                                   |
+| [Barkingside](stations/barkingside.md)           | [Parkinpuoli](stations/barkingside.md)            | Central                                           |
 | Barons Court                                     | tbd                                               |                                                   |
 | Bayswater                                        | tbd                                               |                                                   |
 | Becontree                                        | tbd                                               |                                                   |
@@ -62,7 +62,7 @@
 | Dagenham Heathway                                | tbd                                               |                                                   |
 | [Debden](stations/debden.md)                     | [Syvälaakso](stations/debden.md)                  | Central                                           |
 | Dollis Hill                                      | tbd                                               |                                                   |
-| Ealing Broadway                                  | Killangin maantie                                 |                                                   |
+| [Ealing Broadway](stations/ealing-broadway.md)   | [Killangin maantie](stations/ealing-broadway.md)  | Central, District                                 |
 | Ealing Common                                    | tbd                                               |                                                   |
 | Earls Court                                      | tbd                                               |                                                   |
 | [East Acton](stations/acton.md)                  | [Itä-Tammela](stations/acton.md)                  | Central                                           |
@@ -130,7 +130,7 @@
 | Kilburn                                          | tbd                                               |                                                   |
 | Kilburn Park                                     | tbd                                               |                                                   |
 | Kings Cross St. Pancras                          | Kuninkaanristi - Pyhä Pancratius                  |                                                   |
-| Kingsbury                                        | Kuninkaanlinna                                    |                                                   |
+| [Kingsbury](stations/kingsbury.md)               | [Kuninkaanlinna](stations/kingsbury.md)           | Jubilee                                           |
 | Knightsbridge                                    | tbd                                               |                                                   |
 | Ladbroke Grove                                   | tbd                                               |                                                   |
 | Lambeth North                                    | tbd                                               |                                                   |
@@ -157,9 +157,9 @@
 | [Morden](stations/morden.md)                     | [Suomäki](stations/morden.md)                     | Northern                                          |
 | Mornington Crescent                              | tbd                                               |                                                   |
 | Neasden                                          | tbd                                               |                                                   |
-| Newbury Park                                     | Uudenlinnanpuisto                                 |                                                   |
+| [Newbury Park](stations/newbury-park.md)         | [Uudenlinnanpuisto](stations/newbury-park.md)     | Central                                           |
 | [North Acton](stations/acton.md)                 | [Pohjois-Tammela](stations/acton.md)              | Central, District, Piccadilly                     |
-| North Ealing                                     | Pohjois-Killanki                                  |                                                   |
+| [North Ealing](stations/north-ealing.md)         | [Pohjois-Killanki](stations/north-ealing.md)      | Piccadilly                                        |
 | North Greenwich                                  | tbd                                               |                                                   |
 | North Harrow                                     | tbd                                               |                                                   |
 | North Wembley                                    | tbd                                               |                                                   |
@@ -262,7 +262,7 @@
 | West Ruislip                                     | tbd                                               |                                                   |
 | Westbourne Park                                  | tbd                                               |                                                   |
 | Westminster                                      | tbd                                               |                                                   |
-| White City                                       | Valkoinenkaupunki                                 |                                                   |
+| [White City](stations/white-city.md)             | [Valkoinenkaupunki](stations/white-city.md)       | Central                                           |
 | Whitechapel                                      | tbd                                               |                                                   |
 | Willesden Green                                  | tbd                                               |                                                   |
 | Willesden Junction                               | tbd                                               |                                                   |
