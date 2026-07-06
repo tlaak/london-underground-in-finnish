@@ -22,7 +22,7 @@
 | Becontree                                        | tbd                                               |                                                   |
 | Belsize Park                                     | tbd                                               |                                                   |
 | [Bermondsey](stations/bermondsey.md)             | [Karhuvartiansaari](stations/bermondsey.md)       | Jubilee                                           |
-| Bethnal Green                                    | Onnikulmanniitty                                  |                                                   |
+| [Bethnal Green](stations/bethnal-green.md)       | [Onnikulmanniitty](stations/bethnal-green.md)     | Central                                           |
 | Blackfriars                                      | tbd                                               |                                                   |
 | Blackhorse Road                                  | tbd                                               |                                                   |
 | [Bond Street](stations/bond-street.md)           | [Talonpojankatu](stations/bond-street.md)         | Central, Jubilee                                  |
@@ -47,7 +47,7 @@
 | [Chancery Lane](stations/chancery-lane.md)       | [Kanslerioikeudenkuja](stations/chancery-lane.md) | Central                                           |
 | Charing Cross                                    | tbd                                               |                                                   |
 | Chesham                                          | tbd                                               |                                                   |
-| Chigwell                                         | Kiikankaivo                                       |                                                   |
+| [Chigwell](stations/chigwell.md)                 | [Kiikankaivo](stations/chigwell.md)               | Central                                           |
 | Chiswick Park                                    | tbd                                               |                                                   |
 | Chorleywood                                      | tbd                                               |                                                   |
 | Clapham Common                                   | tbd                                               |                                                   |
@@ -85,7 +85,7 @@
 | Finchley Road                                    | tbd                                               |                                                   |
 | Finsbury Park                                    | tbd                                               |                                                   |
 | Fulham Broadway                                  | tbd                                               |                                                   |
-| Gants Hill                                       | Gantinmäki                                        |                                                   |
+| [Gants Hill](stations/gants-hill.md)             | [Gantinmäki](stations/gants-hill.md)              | Central                                           |
 | Gloucester Road                                  | tbd                                               |                                                   |
 | Golders Green                                    | tbd                                               |                                                   |
 | Goldhawk Road                                    | tbd                                               |                                                   |
@@ -164,13 +164,13 @@
 | North Harrow                                     | tbd                                               |                                                   |
 | North Wembley                                    | tbd                                               |                                                   |
 | Northfields                                      | tbd                                               |                                                   |
-| Northolt                                         | Pohjoiskulma                                      |                                                   |
+| [Northolt](stations/northolt.md)                 | [Pohjoiskulma](stations/northolt.md)              | Central                                           |
 | Northwick Park                                   | tbd                                               |                                                   |
 | Northwood                                        | Pohjolanmetsä                                     |                                                   |
 | Northwood Hills                                  | tbd                                               |                                                   |
 | Notting Hill Gate                                | Knottilanmäenportti                               |                                                   |
 | [Oakwood](stations/oakwood.md)                   | [Tammimetsä](stations/oakwood.md)                 | Piccadilly                                        |
-| Old Street                                       | Vanhatie                                          |                                                   |
+| [Old Street](stations/old-street.md)             | [Vanhatie](stations/old-street.md)                | Northern                                          |
 | Osterley                                         | tbd                                               |                                                   |
 | Oval                                             | tbd                                               |                                                   |
 | [Oxford Circus](stations/oxford-circus.md)       | [Härkävieskanaukio](stations/oxford-circus.md)    | Bakerloo, Central, Victoria                       |
@@ -186,7 +186,7 @@
 | Putney Bridge                                    | tbd                                               |                                                   |
 | Queens Park                                      | tbd                                               |                                                   |
 | Queensbury                                       | tbd                                               |                                                   |
-| Queensway                                        | Kuningattarentie                                  |                                                   |
+| [Queensway](stations/queensway.md)               | [Kuningattarentie](stations/queensway.md)         | Central                                           |
 | Ravenscourt Park                                 | tbd                                               |                                                   |
 | Rayners Lane                                     | tbd                                               |                                                   |
 | Redbridge                                        | Punainensilta                                     |                                                   |
