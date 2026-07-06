@@ -12,6 +12,7 @@ A content-only repo that translates London Underground station names into Finnis
 - Keep it **professional — no humorous or joke translations.**
 - When a name doesn't translate cleanly, reason it out and choose creatively; justify the choice by pointing to real existing Finnish place names where possible.
 - **Prefer a real Finnish toponym that echoes the name over a stiff literal translation** — even if that toponym's own etymology doesn't match the English name 100% (e.g. Angel → _Angeli_, Acton → _Tammela_). Fall back to the literal only when no real place name fits, and say so (e.g. Bank → _Pankki_).
+- **A standard gloss for a recurring word is a default, not a rule — follow each place's own etymology.** When a specific station's history points elsewhere, override the usual word and say why. E.g. "moor" is usually _nummi_ (a dry heath: Moorgate → _Nummiportti_), but Morden means "hill in _marshy_ ground," so it takes _suo_ (marsh) → _Suomäki_.
 - Wrap Finnish words and chosen translations in `_underscore italics_`.
 - Finnish directional compounds are hyphenated: `Itä-` (east), `Länsi-` (west), `Pohjois-` (north), e.g. `Itä-Tammela`.
 
