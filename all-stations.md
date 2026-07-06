@@ -21,7 +21,7 @@
 | Bayswater                                  | tbd                                               |                                    |
 | Becontree                                  | tbd                                               |                                    |
 | Belsize Park                               | tbd                                               |                                    |
-| Bermondsey                                 | tbd                                               |                                    |
+| [Bermondsey](stations/bermondsey.md)       | [Karhuvartiansaari](stations/bermondsey.md)       | Jubilee                            |
 | Bethnal Green                              | Onnikulmanniitty                                  |                                    |
 | Blackfriars                                | tbd                                               |                                    |
 | Blackhorse Road                            | tbd                                               |                                    |

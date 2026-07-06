@@ -8,7 +8,8 @@ A content-only repo that translates London Underground station names into Finnis
 
 ## Editorial rules for translations
 
-- Base every translation on genuine **etymology / historical context** of the English name, and follow Finnish place-name conventions. Cite sources (usually Wikipedia) inline.
+- Base every translation on genuine **etymology / historical context** of the English name, and follow Finnish place-name conventions.
+- **Link sources inline wherever one exists** — not just the etymology (usually Wikipedia/Wiktionary), but also the points of decision: the real Finnish place names, cognates, or word senses cited to justify a choice (e.g. link the Finnish town or district a translation echoes).
 - Keep it **professional — no humorous or joke translations.**
 - When a name doesn't translate cleanly, reason it out and choose creatively; justify the choice by pointing to real existing Finnish place names where possible.
 - **Prefer a real Finnish toponym that echoes the name over a stiff literal translation** — even if that toponym's own etymology doesn't match the English name 100% (e.g. Angel → _Angeli_, Acton → _Tammela_). Fall back to the literal only when no real place name fits, and say so (e.g. Bank → _Pankki_).
